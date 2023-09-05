@@ -1,7 +1,7 @@
 # Sonar-Treasure-Hunter - A Treasure Hunting Game
 
 ## Introduction
-Welcome to "S O N A R !," a treasure-hunting game where you take on the role of the captain of the Simon, a treasure-hunting ship. Your mission is to use sonar devices to locate and retrieve three sunken treasure chests at the bottom of the ocean. However, the catch is that you only have cheap sonar devices that provide distance information, not direction.
+A treasure-hunting game where you take on the role of the captain of the Simon, a treasure-hunting ship. Your mission is to use sonar devices to locate and retrieve three sunken treasure chests at the bottom of the ocean. However, the catch is that you only have cheap sonar devices that provide distance information, not direction.
 
 ## Instructions
 1. Enter the coordinates to drop a sonar device. The ocean map will display how far away the nearest chest is, or an X if it's beyond the sonar device's range.
